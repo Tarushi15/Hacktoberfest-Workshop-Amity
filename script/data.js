@@ -29,7 +29,7 @@ const data = `[{
 		"desc": "DevOps engineer",
 		"github": "https://github.com/deba19"
 	},
-{
+        {
 		"name": "Tarushi Goyal",
 		"desc": "Student",
 		"github": "https://github.com/Tarushi15"
